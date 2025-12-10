@@ -17,8 +17,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=CryptoDragonLady&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
+
+![](https://raw.githubusercontent.com/CryptoDragonLady/CryptoDragonLady/refs/heads/main/result.png)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=CryptoDragonLady&icon=0&color=11)](https://visitcount.itsvg.in)
