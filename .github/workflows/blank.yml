@@ -32,6 +32,7 @@ jobs:
           base_hireable: yes
           base_indepth: yes
           config_display: large
+          config_octicon: yes
           config_timezone: America/Denver
           plugin_achievements: yes
           plugin_achievements_display: detailed
@@ -51,7 +52,8 @@ jobs:
           plugin_code_load: 400
           plugin_code_visibility: public
           plugin_habits: yes
-          plugin_habits_charts_type: classic
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: chartist
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_from: 200
@@ -62,6 +64,7 @@ jobs:
           plugin_languages_analysis_timeout_repositories: 7.5
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
+          plugin_languages_indepth: yes
           plugin_languages_limit: 8
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
@@ -74,9 +77,7 @@ jobs:
           plugin_lines_sections: base
           plugin_notable: yes
           plugin_notable_from: organization
+          plugin_notable_indepth: yes
+          plugin_notable_self: yes
           plugin_notable_types: commit
-          plugin_skyline: yes
-          plugin_skyline_frames: 60
-          plugin_skyline_quality: 0.5
-          plugin_skyline_year: current-year
           plugin_traffic: yes
