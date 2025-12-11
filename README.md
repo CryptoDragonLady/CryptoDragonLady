@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/CryptoDragonLady/CryptoDragonLady/refs/heads/main/header.png)
+![Header](https://github.com/CryptoDragonLady/CryptoDragonLady/blob/main/github-header-banner%20(2).png?raw=true)
 
 # 💫 About Me:
 🔭 I’m currently working on mostly private repos you cant see. <br><br>👯 I’m looking to collaborate on anything interesting. <br><br>🌱 I’m currently learning what work/life balance is and how to be a human. <br><br>💬 Ask me about anything you want an answer to.<br><br>⚡ Fun facts: Scotland's national animal is the unicorn, octopuses have three hearts, <br>                        and honey never spoils;  and a "jiffy" is an actual unit of time <br> <br> 😄 Pronouns: She/Her
